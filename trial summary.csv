@@ -1,5 +1,5 @@
 Study, Trial Duration, Treatment Arms
-DeFronzo et al_2005_Diabetes Care,30 weeks,"This is a comment
+DeFronzo et al_2005_Diabetes Care,30 weeks,"This is a comment'\n'
 that spans multiple lines.
 It includes a quoted phrase like ""important info""."
 Buse et al_2004_Diabetes Care,test,
