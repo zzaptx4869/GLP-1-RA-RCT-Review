@@ -1,7 +1,7 @@
 <table>
 <thead>
   <tr>
-    <th align="left" width="250">Trial Name<br>(Study, Year)</th>
+    <th align="left" width="300">Trial Name<br>(Study, Year)</th>
     <th align="left" width="300">Eligible Patient Population</th>
     <th align="left" width="280">Treatment Arms</th>
     <th align="left" width="150">Trial Duration</th>
