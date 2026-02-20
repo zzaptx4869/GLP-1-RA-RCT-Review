@@ -3,9 +3,9 @@
   <tr>
     <th align="left" width="300">Trial Name<br>(Study, Year)</th>
     <th align="left" width="300">Eligible Patient Population</th>
-    <th align="left" width="280">Treatment Arms</th>
+    <th align="left" width="300">Treatment Arms</th>
     <th align="left" width="150">Trial Duration</th>
-    <th align="left" width="220">Adherence</th>
+    <th align="left" width="300">Adherence</th>
     <th align="left" width="200">Primary Endpoint</th>
   </tr>
 </thead>
