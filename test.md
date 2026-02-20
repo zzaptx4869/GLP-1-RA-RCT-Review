@@ -15,7 +15,8 @@
     <td>Exenatide</td>
   </tr>
   <tr>
-    <td>AMIGO-1<br>(DeFronzo et al, 2005)</td>
+    <td>AMIGO-1<br><a href="https://pubmed.ncbi.nlm.nih.gov/15855572/">(DeFronzo et al, 2005)</a></td> 
+    <!-- <td>AMIGO-1<br>(DeFronzo et al, 2005)</td> -->
     <td>Adult patients with inadequately controlled T2DM (HbA1c 7.1-11.0%) on metformin monotherapy (≥ 1500 mg qd) for ≥ 3 months</td>
     <td>A: Exenatide 10 ug bid <br>(N=113)<br><br>
         B: Exenatide 5 ug bid <br>(N=110)<br><br>
